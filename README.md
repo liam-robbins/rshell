@@ -5,6 +5,8 @@ The program is fully functional and tested, using googletest framework. Most com
 Simply make the file and execute rshell using the commands
 
 '''
+
 make .
 ./rshell
+
 '''
